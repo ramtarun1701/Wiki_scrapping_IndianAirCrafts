@@ -1,0 +1,80 @@
+,aircraft_name,country
+0,Dassault Rafale,France
+1,HAL Tejas,India
+2,Sukhoi Su-30MKI,Russia
+3,Mikoyan MiG-29,Soviet Union
+4,Dassault Mirage 2000,France
+5,SEPECAT Jaguar,United Kingdom
+6,Mikoyan-Gurevich MiG-21,Soviet Union
+7,Embraer R-99,Brazil
+8,Beriev A-50,Soviet Union
+9,Boeing 707,United States
+10,Global 5000,United States
+11,Gulfstream III,United States
+12,Gulfstream G100,Israel
+13,Ilyushin Il-78,Soviet Union
+14,Boeing 777,United States
+15,Boeing 737,United States
+16,Embraer Legacy 600,Brazil
+17,Boeing C-17,United States
+18,Ilyushin Il-76,Soviet Union
+19,C-130J Super Hercules,United States
+20,Airbus A321,Europe
+21,Antonov An-32,Soviet Union
+22,EADS CASA C-295,Spain
+23,Hawker Siddeley HS 748,United Kingdom
+24,Dornier Do 228,Germany
+25,Boeing AH-64,United States
+26,Mil Mi-24,Russia
+27,HAL Prachand,India
+28,HAL Rudra,India
+29,CH-47 Chinook,United States
+30,Mil Mi-17,Russia
+31,HAL Dhruv,India
+32,HAL LUH,India
+33,Alouette III,France/India
+34,SA 315B Lama,France/India
+35,BAE Hawk,United Kingdom
+36,HAL Kiran,India
+37,HAL HTT-40,India
+38,Pilatus PC-7,Switzerland
+39,Pipistrel Virus,Slovenia
+40,IAI Heron,Israel
+41,IAI HeronMk 2,Israel
+42,IAI Searcher,Israel
+43,ALS-50,India
+44,KadetLoitering Aerial Munition,India
+45,Boeing AH-64,United States
+46,HAL Prachand,India
+47,HAL Rudra,India
+48,HAL Dhruv,India
+49,Alouette III,France/India
+50,SA 315B Lama,France/India
+51,Drishti-10,Israel/India
+52,IAI Heron,Israel
+53,IAI Heron TP,Israel
+54,IAI HeronMk 2,Israel
+55,IAI Searcher[51],Israel
+56,Ideaforge Switch[53][54],India
+57,NewSpace NIMBUS,India
+58,NewSpace BELUGA,India
+59,Raphe MPhibr MR-20[57],India
+60,MiG-29,Russia
+61,Boeing P-8,United States
+62,Dornier Do 228,Germany
+63,Britten-Norman BN-2,United Kingdom
+64,HAL Dhruv,India
+65,Kamov Ka-31,Russia
+66,Kamov Ka-27,Russia
+67,SH-60 Seahawk,United States
+68,Westland Sea King,United Kingdom
+69,HAL Chetak,France/India
+70,BAE Hawk,United Kingdom
+71,HAL Kiran,India
+72,IAI Heron[65],Israel
+73,IAI Searcher[35],Israel
+74,MQ-9 Reaper,United States
+75,Drishti-10,Israel/India
+76,Dornier Do 228,Germany
+77,HAL Dhruv,India
+78,HAL Chetak,France/India
